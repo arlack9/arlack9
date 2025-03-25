@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arjn
+- 👋 Hi, I’m Arjun A L
 - 👀 I’m interested in ... Coding
 - 📫 How to reach me ... arjun.cs23@duk.ac.in
 
